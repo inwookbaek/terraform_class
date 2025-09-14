@@ -1,5 +1,5 @@
-resource "aws_s3_bucket" "demo-gilcns" {
-  bucket = "demo-gilcns1"
+resource "aws_s3_bucket" "demo-gilcns100" {
+  bucket = "demo-gilcns100"
 
 }
 
